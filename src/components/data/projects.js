@@ -22,7 +22,7 @@ export const ProjectData = [
         title: "Google",
         about: "This is a clone of the google webpage",
         tags: ["ReactJS", "JavaScript", "Firebase", "Authentication", "Google API"],
-        demo: "https://elastic-easley-55cbf1.netlify.app/",
+        demo: "https://cranky-mccarthy-ffb2de.netlify.app/",
         github: "https://github.com/abhishekgowda1312/google-clone",
         image: require("../../assets/icons/google.png").default
     },
