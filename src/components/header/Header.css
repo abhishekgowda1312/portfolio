@@ -33,6 +33,7 @@
 @media only screen and (max-width: 720px) {
   .mobile-menu {
     display: flex;
+    overflow-y: hidden;
   }
   .web-menu {
     display: none;
