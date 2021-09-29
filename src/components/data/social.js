@@ -17,6 +17,11 @@ export const socialData = [
         platform: 'Facebook',
         link: 'https://www.facebook.com/abhishek.gowda.1312',
         icon: require('../../assets/icons/facebook-logo-2019.png').default
+    },
+    {
+        platform: 'Phone',
+        link: 'tel:8147583774',
+        icon: require("../../assets/icons/phone-call.png").default
     }
 
 ]
